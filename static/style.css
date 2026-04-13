@@ -1,0 +1,38 @@
+body {
+    font-family: Arial;
+    background: linear-gradient(to right, #667eea, #764ba2);
+    color: white;
+    text-align: center;
+}
+
+.container {
+    margin-top: 100px;
+}
+
+textarea {
+    width: 60%;
+    height: 150px;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+}
+
+button {
+    padding: 10px 20px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #ff9800;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #e68900;
+}
+
+.result {
+    margin-top: 20px;
+    font-size: 24px;
+}
