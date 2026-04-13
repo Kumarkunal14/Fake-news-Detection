@@ -39,7 +39,7 @@ This project is a Machine Learning-based web application that detects whether a 
 ---
 
 ## 🌐 Live Demo
-👉 (Add your Render link here after deployment)
+👉 (https://fake-news-detection-2xfm.onrender.com)
 
 ---
 
